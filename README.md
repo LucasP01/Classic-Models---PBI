@@ -1,8 +1,7 @@
-# 📊 Dashboard de Ventas - Classic Models  
-**Visualización interactiva en Power BI**
+<h1 align="center">📊 Dashboard de Ventas - Classic Models</h1>
 
 <p align="center">
-  <img src="![Modelo de datos](https://drive.google.com/uc?export=view&id=1WWjtJoMYlwLaNFk-cPnAububPEC3MaAM)" alt="Dashboard Preview" width="800"/>
+  <img src="https://drive.google.com/uc?export=view&id=1VAtrRJpJ0WYR0K7uaVD-w19MEEILe59T" alt="Imagen" width="500">
 </p>
 
 ---
@@ -139,7 +138,7 @@ Gracias al análisis visual, **Classic Models** logró:
 ## 🚀 Publicación
 
 Este dashboard fue publicado en **Power BI Service** y compartido con los stakeholders de la empresa para facilitar la toma de decisiones basada en datos reales.
-El mismo no puede ser compartido debido a que tengo correo estudiantil y este mismo tiene restricciones.
+El mismo no puede ser compartido en este repositorio debido a que poseo correo estudiantil y este mismo tiene restricciones para compartir y publicar reportes al público.
 
 ---
 
@@ -148,10 +147,10 @@ El mismo no puede ser compartido debido a que tengo correo estudiantil y este mi
 ¿Te interesa este proyecto?  
 Podés escribirme para colaborar, compartir feedback o pedirme una demo:  
 📧 [lucas01andres@gmail.com](mailto:lucas01andres@gmail.com)
-**LinkedIn:** [https://www.linkedin.com/in/lucas-paleo/](https://www.linkedin.com/in/lucas-paleo/)
+**LinkedIn:** [https://www.linkedin.com/in/lucas-paleo/]
+(https://www.linkedin.com/in/lucas-paleo/)
 
 ---
 
 > **¡Gracias por visitar este proyecto!**  
 > Si te gustó, no olvides dejar una ⭐
-> El mismo fue realizado sobre una base de datos de origen pùblico, extraida de Kaggle. Todos los datos son ficticios y no corresponden a una empresa real.
