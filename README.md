@@ -144,12 +144,13 @@ El mismo no puede ser compartido en este repositorio debido a que poseo correo e
 
 ## 📩 Contacto
 
-¿Te interesa este proyecto?  
-Podés escribirme para colaborar, compartir feedback o pedirme una demo:  
-📧 [lucas01andres@gmail.com](mailto:lucas01andres@gmail.com)
-**LinkedIn:** [https://www.linkedin.com/in/lucas-paleo/]
-(https://www.linkedin.com/in/lucas-paleo/)
+## 📬 Contacto
 
+🤝 ¿Te interesa este proyecto? Estoy abierto a colaboraciones, sugerencias o simplemente charlar sobre el proyecto.  
+Si querés compartir feedback, trabajar juntos o pedir una demo, podés contactarme:
+
+- 📧 Email: [lucas01andres@gmail.com](mailto:lucas01andres@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/lucas-paleo](https://www.linkedin.com/in/lucas-paleo/)
 ---
 
 > **¡Gracias por visitar este proyecto!**  
