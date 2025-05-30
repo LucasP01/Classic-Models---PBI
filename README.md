@@ -2,11 +2,10 @@
 **Visualización interactiva en Power BI**
 
 <p align="center">
-  <img src="CAPTURA_PRINCIPAL_DEL_DASHBOARD.png" alt="Dashboard Preview" width="800"/>
+  <img src="![Modelo de datos](https://drive.google.com/uc?export=view&id=1WWjtJoMYlwLaNFk-cPnAububPEC3MaAM)" alt="Dashboard Preview" width="800"/>
 </p>
 
 ---
-
 ## 🏢 Sobre la Empresa
 
 **Classic Models** es una empresa que comercializa automóviles clásicos a escala. Cuenta con múltiples oficinas, una amplia gama de productos y una red internacional de clientes.
@@ -37,7 +36,7 @@ Se construyó un modelo relacional que incluye:
 - **Tabla calendario personalizada**: Para análisis por fecha
 
 <p align="center">
-  <img src="CAPTURA_MODELO_RELACIONAL.png" alt="Modelo de Datos" width="600"/>
+  <img src="https://drive.google.com/uc?export=view&id=1N9aoAFexheqPvrByhNoHyqrcJ0DJdus-" alt="Imagen" width="600">
 </p>
 
 ---
