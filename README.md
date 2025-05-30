@@ -144,8 +144,6 @@ El mismo no puede ser compartido en este repositorio debido a que poseo correo e
 
 ## 📩 Contacto
 
-## 📬 Contacto
-
 🤝 ¿Te interesa este proyecto? Estoy abierto a colaboraciones, sugerencias o simplemente charlar sobre el proyecto.  
 Si querés compartir feedback, trabajar juntos o pedir una demo, podés contactarme:
 
