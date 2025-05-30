@@ -45,73 +45,80 @@ Se construyó un modelo relacional que incluye:
 
 Algunas medidas creadas:
 
-- `Ventas Totales`
+- `Ranking de clientes`
 - `Ticket Promedio`
 - `Órdenes por Trimestre`
 - `Beneficio por Producto`
 - `Top Clientes`
 - `Unidades Vendidas por Estado`
-- `Órdenes por Empleado / Oficina`
+- `Parametro para seleccionar métricas`
+- `Tiempo promedio entre ordenes`
 
 ---
 
 ## 📊 Principales Visualizaciones
 
-### 💰 Ventas Totales y Ticket Promedio
-
-Gráficos con evolución de ventas y KPIs por categoría de producto.
-
+## Ventas: 
+  Análisis de metricas clave para los departamentos gerenciales.
+  
 <p align="center">
-  <img src="CAPTURA_VENTAS_TOTALES.png" alt="Ventas Totales" width="700"/>
+  <img src="https://drive.google.com/uc?export=view&id=1WWjtJoMYlwLaNFk-cPnAububPEC3MaAM" alt="Modelo de datos" width="800"/>
 </p>
 
----
+
+### 💰 Ventas Totales y Ticket Promedio
+
+Gráficos con evolución de ventas y KPIs por categoría de producto.  
+Incluye ticket medio, órdenes, y beneficio por tipo de producto.
+
+
 
 ### 📦 Análisis de Órdenes
 
-Comparativa mensual y trimestral del volumen de órdenes.
+Comparativa mensual y trimestral del volumen de órdenes.  
+Permite identificar patrones de compra y picos de actividad.
 
-<p align="center">
-  <img src="CAPTURA_ORDENES_MENSUALES.png" alt="Órdenes Mensuales" width="700"/>
-</p>
 
----
 
-### 🧍‍♂️ Desempeño por Empleado
+### 🧍‍♂️ Principales Clientes y Unidades Vendidas
 
-Top 10 empleados según cantidad de órdenes gestionadas.  
-Incluye análisis por género y oficina.
-
-<p align="center">
-  <img src="CAPTURA_EMPLEADOS.png" alt="Desempeño Empleados" width="700"/>
-</p>
+Ranking de clientes por ventas totales y gráfico de unidades vendidas por categoría.  
+Ayuda a entender quiénes son los principales compradores y qué productos lideran en cantidad vendida.
 
 ---
 
-### 🌍 Análisis Geográfico de Ventas
-
-Visualización de unidades vendidas por estado.
-
+## Página 2: Empleados - Oficina:
+  Dashboard orientado al rendimietno del equipo comercial.
 <p align="center">
-  <img src="CAPTURA_ESTADOS.png" alt="Unidades Vendidas por Estado" width="700"/>
+  <img src="https://drive.google.com/uc?export=view&id=1BgbNuudhMMHHplwyE2fsK8yyt_m2MxD4" alt="Modelo de datos" width="800"/>
 </p>
 
----
 
-### 🏆 Top Clientes
+### 🧑‍💼 Top Empleados y Beneficio Generado
 
-Ranking de los principales compradores de la empresa.
+Ranking de los 10 empleados con mayor beneficio obtenido.  
+Permite visualizar rápidamente quiénes aportan más al resultado general.
 
-<p align="center">
-  <img src="CAPTURA_TOP_CLIENTES.png" alt="Top Clientes" width="700"/>
-</p>
 
----
+
+### 🏢 Comparativa entre Oficinas
+
+Muestra el beneficio total y la cantidad de empleados por sede.  
+Ideal para evaluar el rendimiento por ubicación geográfica.
+
+
+
+### 📆 Evolución Mensual y Análisis por Género
+
+Gráfico de beneficio obtenido por mes y distribución por género.  
+Ofrece una mirada completa del desempeño a lo largo del año y posibles brechas por género.
+
+
 
 ## 🛠️ Funcionalidades del Dashboard
 
 - Segmentación por **año**, **ciudad**, **estado** y **escala del producto**
-- Modo oscuro 🌙 para mayor comodidad visual
+- Opcion para seleccionar métrica en la página 2
 - Navegación intuitiva por secciones 🔄
 - Interactividad completa y filtros dinámicos
 
@@ -132,6 +139,7 @@ Gracias al análisis visual, **Classic Models** logró:
 ## 🚀 Publicación
 
 Este dashboard fue publicado en **Power BI Service** y compartido con los stakeholders de la empresa para facilitar la toma de decisiones basada en datos reales.
+El mismo no puede ser compartido debido a que tengo correo estudiantil y este mismo tiene restricciones.
 
 ---
 
@@ -139,9 +147,11 @@ Este dashboard fue publicado en **Power BI Service** y compartido con los stakeh
 
 ¿Te interesa este proyecto?  
 Podés escribirme para colaborar, compartir feedback o pedirme una demo:  
-📧 [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+📧 [lucas01andres@gmail.com](mailto:lucas01andres@gmail.com)
+**LinkedIn:** [https://www.linkedin.com/in/lucas-paleo/](https://www.linkedin.com/in/lucas-paleo/)
 
 ---
 
 > **¡Gracias por visitar este proyecto!**  
-> Si te gustó, no olvides dejar una ⭐ en el repo 🙌
+> Si te gustó, no olvides dejar una ⭐
+> El mismo fue realizado sobre una base de datos de origen pùblico, extraida de Kaggle. Todos los datos son ficticios y no corresponden a una empresa real.
